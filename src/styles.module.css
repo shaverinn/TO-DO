@@ -1,0 +1,18 @@
+.app {
+    min-height: 100vh;
+    padding: 40px 60px;
+    background-image: url("./assets/Home.svg") ;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-color: #C5CFD6;
+}
+
+.container {
+    margin-top: 20px;
+    display: flex;
+    gap: 40px;
+}
+.collum {
+    width: 100%;
+}

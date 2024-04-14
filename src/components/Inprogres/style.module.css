@@ -1,0 +1,10 @@
+.root {
+    background-color: #D0935A;
+    padding: 10px;
+    border-radius: 10px;
+    border-top: 5px solid #BC8551;
+}
+.label {
+    color: white;
+    margin-bottom: 10px;
+}
