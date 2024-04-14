@@ -1,0 +1,22 @@
+.root {
+    background-color: white;
+    padding: 20px;
+    border-radius: 10px ;
+}
+.badges {
+    margin-top: 20px ;
+    display: flex;
+    align-items: center;
+    gap: 20px;
+}
+.label {
+    background-color: #59B4D1;
+    padding: 10px 20px;
+    border-radius: 5px;
+    color: white;
+}
+.img {
+    height: 50px;
+    width: 50px;
+    border-radius: 50% ;
+}
